@@ -21,7 +21,7 @@ public class Application {
         Event conference = new Event("Conferenza sulla IA", LocalDate.of(2026, 3, 22), "Conferenza per esplorare le ultime novità sull'intelligenza artificiale.", EventType.PUBLIC, 150);
         Event workshop = new Event("Workshop di pittura", LocalDate.of(2025, 11, 5), "Impara le tecniche base della pittura ad olio.", EventType.PRIVATE, 20);
 
-        // ed.save(concert);
+        //ed.save(concert);
         //  ed.save(conference);
         // ed.save(workshop);
 
